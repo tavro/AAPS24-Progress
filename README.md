@@ -13,12 +13,10 @@
 - [x] Exercice 9 (A): 1p
 - [x] Exercice 10 (A, B): 2p
 - [x] Exercice 11 (A): 1p
-- [ ] Exercice 12
+- [x] Exercice 12 (B): 1p
 - [x] Exercice 13 (A): 1p
 
-Current points: 12.5p
-
-Need: 0.5p
+Current points: 13.5p
 
 ## Labs
 
