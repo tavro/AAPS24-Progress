@@ -10,7 +10,7 @@
 - [x] Exercice 6 (A)
 - [x] Exercice 7 (A)
 - [x] Exercice 8 (A)
-- [ ] Exercice 9
+- [x] Exercice 9 (A)
 - [x] Exercice 10 (A)
 - [x] Exercice 11 (A)
 - [ ] Exercice 12
