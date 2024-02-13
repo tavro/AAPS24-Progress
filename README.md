@@ -7,7 +7,7 @@
 - [x] Exercice 3 (A)
 - [x] Exercice 4 (A)
 - [x] Exercice 5 (A)
-- [ ] Exercice 6
+- [x] Exercice 6 (A)
 - [x] Exercice 7 (A)
 - [x] Exercice 8 (A)
 - [ ] Exercice 9
